@@ -1,1 +1,1 @@
-readme and input words!
+practise using git commands 
