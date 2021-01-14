@@ -1,1 +1,2 @@
-practise using git commands 
+WhyAPP
+This is my app 
