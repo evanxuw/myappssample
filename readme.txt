@@ -1,2 +1,1 @@
-WhyAPP
-This is my app 
+personal website
