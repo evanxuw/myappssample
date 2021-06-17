@@ -1,7 +1,12 @@
 /*tag selectors */
-
+/* div{
+  background-color:#f0ebcc ;
+} */
 body {
+  margin: 0;
   background-color: #E4FBFF;
+  text-align: center;
+  font-family: arial, Helvetica Neue, Helvetica, sans-serif;
 }
 
 hr{
@@ -16,11 +21,17 @@ img{
 }
 
 h1{
+  margin-top:0;
   color: #b2b8a3;
+  font-family: 'Sacramento', cursive;
 }
 
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
 h3{
   color: #b2b8a3;
+  font-family: 'Montserrat',sans-serif;
 }
 
 /*Class Selectors*/
@@ -28,4 +39,34 @@ h3{
   height:100000000px;
 }
 
+.top-container{
+  background-color:#f0ebcc ;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+
+}
+
+.bottom-container{
+} 
+
+.pro{
+  text-decoration: underline;
+}
+
+
+.top-cloud{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+
+}
+
+.bottom-cloud{
+  position:absolute;
+  left: 200px;
+  bottom: 300px
+}
 /**ID Selectors*/
